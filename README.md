@@ -78,6 +78,19 @@ cd your-repo
 
 ```
 
+### 2. Download all the packages
+
+```bash
+npm install 
+```
+
+### 3. Create .env file which includes the following
+
+- Connection string 
+- Port
+- JWTKEY
+
+
 🙋‍♂️ Author
 Made with ❤️ by David Polak
 
